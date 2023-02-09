@@ -1,0 +1,36 @@
+{
+  "name": "Ismayil",
+  "age": 28,
+  "address": "gili ilk 29",
+  "key": {
+    "key": "value",
+    "key2": 33,
+    "key3": {
+      "key": "value",
+      "key2": "value"
+    }
+  },
+  "array": [
+    "item1",
+    "item2",
+    {
+      "key": "valye"
+    }
+  ],
+  "array2": [
+    "item1",
+    "item2"
+  ],
+  "objectArray": [
+    {
+      "key": "value",
+      "key2": "value",
+      "key3": "value"
+    },
+    {
+      "key": "value",
+      "key2": "value"
+    }
+  ],
+  "longText": "skjd hfkj sdhfkj shdkfhsd kjfh sdkhf\nkjsdhfkj sdhfkjshdfkjsdhfkjhsd kjfhsdkj\nfh jkdshfkjsdhfkj sdhf kjdhkjsdhf kjshf jksdhf ksj\n"
+}
